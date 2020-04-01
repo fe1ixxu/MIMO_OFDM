@@ -12,7 +12,7 @@ algorithm demonstrates an improvement in terms of convergence
 rate compared with the state-of-the-art PAPR reduction method.
 
 ![PAPR_Reduction](https://github.com/coran123/MIMO_OFDM/raw/master/pictures/papr_10000.jpg)
-<img src="https://raw.githubusercontent.com/nondanee/vsc-netease-music/master/icon.png" alt="icon" width="128px">
+<img src="https://github.com/coran123/MIMO_OFDM/raw/master/pictures/papr_10000.jpg" alt="icon" width="128px">
 # Platform
 MATLAB 2018b
 
