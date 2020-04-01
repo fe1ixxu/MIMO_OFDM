@@ -11,7 +11,8 @@ generate constant modulus signals for such systems. The proposed
 algorithm demonstrates an improvement in terms of convergence
 rate compared with the state-of-the-art PAPR reduction method.
 
-<img src="https://github.com/coran123/MIMO_OFDM/raw/master/pictures/papr_10000.eps" width="128px">
+![papr](https://github.com/fe1ixxu/MIMO_OFDM/tree/master/pictures/papr_iteration.jpg)
+
 # Platform
 MATLAB 2018b
 
