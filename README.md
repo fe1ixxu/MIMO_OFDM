@@ -1,4 +1,4 @@
-# MIMO_OFDM
+# k-Modular Quadratic Programming Algorithm for PAPR in MIMO OFDM
 we propose an alternative peak-toaveragepower ratio (PAPR) reduction framework for MIMO-OFDM
 system based on the well-known unimodular quadratic
 programming (UQP). In addition, we consider a more general
