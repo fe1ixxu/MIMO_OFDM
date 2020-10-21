@@ -1,4 +1,6 @@
-# k-Modular Quadratic Programming Algorithm for PAPR in MIMO OFDM
+# Efficient Quadratic Programming for Peak-to-Average Power Ratio Reduction in Communication Systems
+This is the codebase for **[our paper](https://www.fe1ixxu.com/files/PAPROFDM.pdf)**.
+
 we propose an alternative peak-to-average-power ratio (PAPR) reduction framework for MIMO-OFDM
 system based on the well-known unimodular quadratic
 programming (UQP). In addition, we consider a more general
