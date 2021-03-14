@@ -1,6 +1,15 @@
 # Efficient Quadratic Programming for Peak-to-Average Power Ratio Reduction in Communication Systems
 This is the codebase for **[our paper](https://www.fe1ixxu.com/files/PAPROFDM.pdf)**.
 
+If you find any helpful information, please cite our paper:
+
+```
+@article{xuefficient,
+  title={Efficient Quadratic Programming for Peak-to-Average Power Ratio Reduction in Communication Systems},
+  author={Xu, Haoran and Khobahi, Shahin and Soltanalian, Mojtaba}
+}
+```
+
 we propose an alternative peak-to-average-power ratio (PAPR) reduction framework for MIMO-OFDM
 system based on the well-known unimodular quadratic
 programming (UQP). In addition, we consider a more general
